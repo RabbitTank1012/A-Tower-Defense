@@ -1,0 +1,32 @@
+﻿  Actor.cpp
+  Bullet.cpp
+  CircleComponent.cpp
+  Component.cpp
+  Enemy.cpp
+  Game.cpp
+  Grid.cpp
+  main.cpp
+  Math.cpp
+  MoveComponent.cpp
+  NavComponent.cpp
+  Random.cpp
+  SpriteComponent.cpp
+  Tile.cpp
+  Tower.cpp
+  正在生成代码...
+  FinalProject.vcxproj -> C:\Work\FinalProject\FinalProject\Debug\FinalProject.exe
+  C:\Work\FinalProject\FinalProject\external\SDL2\lib\x86\SDL2.dll
+  复制了 1 个文件
+  C:\Work\FinalProject\FinalProject\external\SDL2_image\lib\x86\libjpeg-9.dll
+  C:\Work\FinalProject\FinalProject\external\SDL2_image\lib\x86\libpng16-16.dll
+  C:\Work\FinalProject\FinalProject\external\SDL2_image\lib\x86\libtiff-5.dll
+  C:\Work\FinalProject\FinalProject\external\SDL2_image\lib\x86\libwebp-7.dll
+  C:\Work\FinalProject\FinalProject\external\SDL2_image\lib\x86\SDL2_image.dll
+  C:\Work\FinalProject\FinalProject\external\SDL2_image\lib\x86\zlib1.dll
+  复制了 6 个文件
+  C:\Work\FinalProject\FinalProject\external\SDL2_ttf\lib\x86\libfreetype-6.dll
+  C:\Work\FinalProject\FinalProject\external\SDL2_ttf\lib\x86\SDL2_ttf.dll
+  C:\Work\FinalProject\FinalProject\external\SDL2_ttf\lib\x86\zlib1.dll
+  复制了 3 个文件
+  C:\Work\FinalProject\FinalProject\FinalProject\\fonts\abelregular.ttf
+  复制了 1 个文件
